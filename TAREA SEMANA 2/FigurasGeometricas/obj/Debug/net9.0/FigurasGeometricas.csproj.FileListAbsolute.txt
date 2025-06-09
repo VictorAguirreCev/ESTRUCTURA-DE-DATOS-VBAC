@@ -1,0 +1,14 @@
+D:\REPOSITORIO COMPARTIDO GITHUB\VBAC ESTRUCTURA DE DATOS\FigurasGeometricas\bin\Debug\net9.0\FigurasGeometricas.exe
+D:\REPOSITORIO COMPARTIDO GITHUB\VBAC ESTRUCTURA DE DATOS\FigurasGeometricas\bin\Debug\net9.0\FigurasGeometricas.deps.json
+D:\REPOSITORIO COMPARTIDO GITHUB\VBAC ESTRUCTURA DE DATOS\FigurasGeometricas\bin\Debug\net9.0\FigurasGeometricas.runtimeconfig.json
+D:\REPOSITORIO COMPARTIDO GITHUB\VBAC ESTRUCTURA DE DATOS\FigurasGeometricas\bin\Debug\net9.0\FigurasGeometricas.dll
+D:\REPOSITORIO COMPARTIDO GITHUB\VBAC ESTRUCTURA DE DATOS\FigurasGeometricas\bin\Debug\net9.0\FigurasGeometricas.pdb
+D:\REPOSITORIO COMPARTIDO GITHUB\VBAC ESTRUCTURA DE DATOS\FigurasGeometricas\obj\Debug\net9.0\FigurasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIO COMPARTIDO GITHUB\VBAC ESTRUCTURA DE DATOS\FigurasGeometricas\obj\Debug\net9.0\FigurasGeometricas.AssemblyInfoInputs.cache
+D:\REPOSITORIO COMPARTIDO GITHUB\VBAC ESTRUCTURA DE DATOS\FigurasGeometricas\obj\Debug\net9.0\FigurasGeometricas.AssemblyInfo.cs
+D:\REPOSITORIO COMPARTIDO GITHUB\VBAC ESTRUCTURA DE DATOS\FigurasGeometricas\obj\Debug\net9.0\FigurasGeometricas.csproj.CoreCompileInputs.cache
+D:\REPOSITORIO COMPARTIDO GITHUB\VBAC ESTRUCTURA DE DATOS\FigurasGeometricas\obj\Debug\net9.0\FigurasGeometricas.dll
+D:\REPOSITORIO COMPARTIDO GITHUB\VBAC ESTRUCTURA DE DATOS\FigurasGeometricas\obj\Debug\net9.0\refint\FigurasGeometricas.dll
+D:\REPOSITORIO COMPARTIDO GITHUB\VBAC ESTRUCTURA DE DATOS\FigurasGeometricas\obj\Debug\net9.0\FigurasGeometricas.pdb
+D:\REPOSITORIO COMPARTIDO GITHUB\VBAC ESTRUCTURA DE DATOS\FigurasGeometricas\obj\Debug\net9.0\FigurasGeometricas.genruntimeconfig.cache
+D:\REPOSITORIO COMPARTIDO GITHUB\VBAC ESTRUCTURA DE DATOS\FigurasGeometricas\obj\Debug\net9.0\ref\FigurasGeometricas.dll
