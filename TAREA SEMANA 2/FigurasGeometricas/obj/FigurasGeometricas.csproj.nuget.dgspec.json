@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\REPOSITORIO COMPARTIDO GITHUB\\VBAC ESTRUCTURA DE DATOS\\FigurasGeometricas\\FigurasGeometricas.csproj": {}
+    "D:\\REPOSITORIO COMPARTIDO GITHUB\\VBAC ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS-VBAC\\TAREA SEMANA 2\\FigurasGeometricas\\FigurasGeometricas.csproj": {}
   },
   "projects": {
-    "D:\\REPOSITORIO COMPARTIDO GITHUB\\VBAC ESTRUCTURA DE DATOS\\FigurasGeometricas\\FigurasGeometricas.csproj": {
+    "D:\\REPOSITORIO COMPARTIDO GITHUB\\VBAC ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS-VBAC\\TAREA SEMANA 2\\FigurasGeometricas\\FigurasGeometricas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\REPOSITORIO COMPARTIDO GITHUB\\VBAC ESTRUCTURA DE DATOS\\FigurasGeometricas\\FigurasGeometricas.csproj",
+        "projectUniqueName": "D:\\REPOSITORIO COMPARTIDO GITHUB\\VBAC ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS-VBAC\\TAREA SEMANA 2\\FigurasGeometricas\\FigurasGeometricas.csproj",
         "projectName": "FigurasGeometricas",
-        "projectPath": "D:\\REPOSITORIO COMPARTIDO GITHUB\\VBAC ESTRUCTURA DE DATOS\\FigurasGeometricas\\FigurasGeometricas.csproj",
+        "projectPath": "D:\\REPOSITORIO COMPARTIDO GITHUB\\VBAC ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS-VBAC\\TAREA SEMANA 2\\FigurasGeometricas\\FigurasGeometricas.csproj",
         "packagesPath": "C:\\Users\\EXTREME LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\REPOSITORIO COMPARTIDO GITHUB\\VBAC ESTRUCTURA DE DATOS\\FigurasGeometricas\\obj\\",
+        "outputPath": "D:\\REPOSITORIO COMPARTIDO GITHUB\\VBAC ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS-VBAC\\TAREA SEMANA 2\\FigurasGeometricas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EXTREME LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
