@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\REPOSITORIO COMPARTIDO GITHUB\\VBAC ESTRUCTURA DE DATOS\\MiProyectoCSharp\\MiProyectoCSharp.csproj",
+      "projectUniqueName": "D:\\REPOSITORIO COMPARTIDO GITHUB\\VBAC ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS-VBAC\\TAREA SEMANA 5\\MiProyectoCSharp\\MiProyectoCSharp.csproj",
       "projectName": "MiProyectoCSharp",
-      "projectPath": "D:\\REPOSITORIO COMPARTIDO GITHUB\\VBAC ESTRUCTURA DE DATOS\\MiProyectoCSharp\\MiProyectoCSharp.csproj",
+      "projectPath": "D:\\REPOSITORIO COMPARTIDO GITHUB\\VBAC ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS-VBAC\\TAREA SEMANA 5\\MiProyectoCSharp\\MiProyectoCSharp.csproj",
       "packagesPath": "C:\\Users\\EXTREME LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\REPOSITORIO COMPARTIDO GITHUB\\VBAC ESTRUCTURA DE DATOS\\MiProyectoCSharp\\obj\\",
+      "outputPath": "D:\\REPOSITORIO COMPARTIDO GITHUB\\VBAC ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS-VBAC\\TAREA SEMANA 5\\MiProyectoCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EXTREME LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
